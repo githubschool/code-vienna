@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: November 8, 2017
-- Facilitator: @allthedoll
+- Facilitators: @allthedoll and @synthead
 
 ## Talk to Us!!
 
