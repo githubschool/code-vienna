@@ -19,6 +19,7 @@ Please take a moment to complete the class survey at: https://goo.gl/T4sczn.
 ## Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/GH4D/index)
+- [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 - [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 - [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
