@@ -27,6 +27,8 @@ Please take a moment to complete the class survey at: https://goo.gl/T4sczn.
 - [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
 - [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
 - [On Demand Training](https://services.github.com/on-demand/intro-to-github/)
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+  - This is still for Hacktoberfest 2017 (which is over), but the website will update with a reminder sign up for 2018
 
 ### Class Images
 - [Git Configuration Levels](https://services.github.com/on-demand/images/config-levels.jpg)
